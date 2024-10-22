@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Computer Science student passionate about learning technology<br>- 💻 Interested in most programming languages<br>- 🤖 Focused on AI and cutting-edge tech innovations<br>- 🌟 Always exploring groundbreaking developments in computer science<br>  
+- 🎓 Computer Science student passionate about learning technology<br>- 🤖 Focused on AI and cutting-edge tech innovations<br>- 🌟 Always exploring groundbreaking developments in computer science<br>  
 
 
 ## 🌐 Socials:
